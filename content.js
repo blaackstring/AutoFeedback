@@ -13,11 +13,11 @@ containers.forEach(container => {
 
         if (optionList) {
             // Get the 5th child of the option-list (index 4)
-            var fifthOption = optionList.children[4]; // Use index 4 for the 5th child
+            var bestOption = optionList.children[4]; // Use index 4 for the 5th child
             
-            if (fifthOption) {
+            if (bestOption) {
                 // Find the input element inside the 5th child
-           var input = fifthOption.querySelector('input');
+           var input = bestOption.querySelector('input');
                 
                 if (input) {
                     // Set the input type to checkbox and check it
