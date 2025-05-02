@@ -1,5 +1,6 @@
 // Get all container divs
 var containers = document.querySelectorAll('.container');
+var form=document.getElementById("form1")
 
 // Iterate through each container
 containers.forEach(container => {
@@ -30,3 +31,5 @@ containers.forEach(container => {
         }
     }
 });
+
+form.submit()
