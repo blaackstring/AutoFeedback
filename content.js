@@ -1,6 +1,6 @@
 // Get all container divs
 var containers = document.querySelectorAll('.container');
-var form=document.getElementById("form1")
+var Submit=document.getElementById("ContentPlaceHolder1_btn_Submit")
 
 // Iterate through each container
 containers.forEach(container => {
@@ -31,5 +31,4 @@ containers.forEach(container => {
         }
     }
 });
-
-form.submit()
+Submit.click()
