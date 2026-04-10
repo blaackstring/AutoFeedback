@@ -1,9 +1,16 @@
 HAVE ANGER ISSUES WHILE GIVING FEEDBACK?
-NO WORRY WHEN AUTOFEEDBACK IS HERE:
+NO WORRY WHEN **AUTOFEEDBACK** IS HERE:
 
 ONLY CLICK ON THE EXTENSION, AND IT WILL DO IT BY ITSELF.
 
-About
+
+REFRENCE->
+
+https://github.com/user-attachments/assets/c97da610-635e-4ea6-8a3e-e5c1c6d35418
+
+
+
+
 The Auto Feedback Extension is a productivity tool designed to simplify and speed up feedback forms. 
 With a single click, the extension automatically selects the best option for questions in online feedback forms,
 saving you time and effort.
